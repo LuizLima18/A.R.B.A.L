@@ -1,0 +1,3736 @@
+fileFormatVersion: 2
+guid: 8a1fcbbc9d702aa499f56e7ee85ed2aa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2488223915631804334
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_0
+  - first:
+      213: -2953024838947872159
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_1
+  - first:
+      213: 1464076483155646540
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_2
+  - first:
+      213: -1808025735836905185
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_3
+  - first:
+      213: -2289706666848830377
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_4
+  - first:
+      213: -4899376017889282985
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_5
+  - first:
+      213: -8264138500673761781
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_6
+  - first:
+      213: -3934173802593399685
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_7
+  - first:
+      213: -6320321929758039059
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_8
+  - first:
+      213: -855797680172677391
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_9
+  - first:
+      213: -118840152942281740
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_10
+  - first:
+      213: 4238222992984143430
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_11
+  - first:
+      213: -6095046487735707741
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_12
+  - first:
+      213: 3410570334887234635
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_13
+  - first:
+      213: 5616716080701711811
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_14
+  - first:
+      213: 4184707208375425019
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_15
+  - first:
+      213: 7366397521075819922
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_16
+  - first:
+      213: 2253664836249716630
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_17
+  - first:
+      213: 7213996447019768803
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_18
+  - first:
+      213: -274880793868347279
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_19
+  - first:
+      213: 8666881211476884688
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_20
+  - first:
+      213: -1772033966224084600
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_21
+  - first:
+      213: 7810875240169607809
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_22
+  - first:
+      213: 5692823480440072774
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_23
+  - first:
+      213: 4821333084834274330
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_24
+  - first:
+      213: -6500975094087557116
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_25
+  - first:
+      213: -3624029869957124403
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_26
+  - first:
+      213: -8568853119453055936
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_27
+  - first:
+      213: 1363951208571467186
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_28
+  - first:
+      213: 4751417839829587725
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_29
+  - first:
+      213: -2207665414452383388
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_30
+  - first:
+      213: 5513382256102201912
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_31
+  - first:
+      213: 4004790423322269726
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_32
+  - first:
+      213: -6990664059225519105
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_33
+  - first:
+      213: -1550510891441298914
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_34
+  - first:
+      213: -6624513494807222096
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_35
+  - first:
+      213: -6292600717571382368
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_36
+  - first:
+      213: -8909138664320502830
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_37
+  - first:
+      213: 7533171306401949693
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_38
+  - first:
+      213: -3864011225313621760
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_39
+  - first:
+      213: 7754830990688352276
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_40
+  - first:
+      213: 1114918180129138388
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_41
+  - first:
+      213: 3497451243612832051
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_42
+  - first:
+      213: 7630373704084331624
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_43
+  - first:
+      213: -6081303429841175003
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_44
+  - first:
+      213: -1072147006974590591
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_45
+  - first:
+      213: -3149366883168104227
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_46
+  - first:
+      213: 5400681574893039803
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_47
+  - first:
+      213: 1328328106883450908
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_48
+  - first:
+      213: 1101227879526961477
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_49
+  - first:
+      213: 4111645506385580017
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_50
+  - first:
+      213: 83683941062388531
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_51
+  - first:
+      213: 8107701278422249446
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_52
+  - first:
+      213: -854283808039852348
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_53
+  - first:
+      213: -8359410425951728621
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_54
+  - first:
+      213: -3026244127012132698
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_55
+  - first:
+      213: -4938987081168992658
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_56
+  - first:
+      213: -4597638212900908644
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_57
+  - first:
+      213: -5896160923230297162
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_58
+  - first:
+      213: -8199224900461968176
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_59
+  - first:
+      213: 6399143744998296803
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_60
+  - first:
+      213: 2180468193969412229
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_61
+  - first:
+      213: 6990039994923756403
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_62
+  - first:
+      213: 1650599802052587104
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_63
+  - first:
+      213: -8917282590225588027
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_64
+  - first:
+      213: -6800828858761964402
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_65
+  - first:
+      213: 733546409921810295
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_66
+  - first:
+      213: -8981765898800404662
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_67
+  - first:
+      213: 7910324879540504727
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_68
+  - first:
+      213: 7989386581976179645
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_69
+  - first:
+      213: 4320765419024322727
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_70
+  - first:
+      213: -3206448152745038772
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_71
+  - first:
+      213: -8737842559592263032
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_72
+  - first:
+      213: 2053060469421258766
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_73
+  - first:
+      213: -22100552387288154
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_74
+  - first:
+      213: 4445942480355462682
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_75
+  - first:
+      213: 3418816610104128721
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_76
+  - first:
+      213: -7748485646223809808
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_77
+  - first:
+      213: 3233913358463545662
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_78
+  - first:
+      213: 8701665223018740027
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_79
+  - first:
+      213: -6782007734441195690
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_80
+  - first:
+      213: 4442324795434237145
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_81
+  - first:
+      213: 814735727739746499
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_82
+  - first:
+      213: 7955598137552573876
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_83
+  - first:
+      213: -7906673367384614548
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_84
+  - first:
+      213: -7017278610859568668
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_85
+  - first:
+      213: 2246138392549383222
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_86
+  - first:
+      213: 1115618154789359958
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_87
+  - first:
+      213: -5678943705732956207
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_88
+  - first:
+      213: 1312735589662565872
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_89
+  - first:
+      213: -6925952432837286621
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_90
+  - first:
+      213: 1756827253517851633
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_91
+  - first:
+      213: -7342970973189063780
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_92
+  - first:
+      213: -2655673598430021598
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_93
+  - first:
+      213: -6652394732444936256
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_94
+  - first:
+      213: -8412407408582408164
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_95
+  - first:
+      213: 2014829774333410284
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_96
+  - first:
+      213: 7292277229457089992
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_97
+  - first:
+      213: 8198135032408407179
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_98
+  - first:
+      213: 4753583322788675678
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_99
+  - first:
+      213: 1351164157175459847
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_100
+  - first:
+      213: 4046814641831124772
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_101
+  - first:
+      213: 498936366733624784
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_102
+  - first:
+      213: -5582463819151063128
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_103
+  - first:
+      213: -8914525304882272366
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_104
+  - first:
+      213: -6564448642457450519
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_105
+  - first:
+      213: -6922893300739446762
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_106
+  - first:
+      213: 3323740107275103380
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_107
+  - first:
+      213: 423333253022028419
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_108
+  - first:
+      213: 6571548754053241543
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_109
+  - first:
+      213: -4144849202863978937
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_110
+  - first:
+      213: 883271827856238367
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_111
+  - first:
+      213: -7659982325058913940
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_112
+  - first:
+      213: 2176078362657042775
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_113
+  - first:
+      213: -4481454164737233819
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_114
+  - first:
+      213: 85868951484279265
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_115
+  - first:
+      213: -4931930593676648624
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_116
+  - first:
+      213: -2875539968231478825
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_117
+  - first:
+      213: 4187377894225717874
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_118
+  - first:
+      213: -8902366104489683407
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_119
+  - first:
+      213: -8812089815985662767
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_120
+  - first:
+      213: -7050912982415461725
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_121
+  - first:
+      213: 5748989780590753504
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_122
+  - first:
+      213: 4053559598437948122
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_123
+  - first:
+      213: -6912900258959715636
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_124
+  - first:
+      213: 5416737865915587560
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_125
+  - first:
+      213: -1673073834338111624
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_126
+  - first:
+      213: -5208898440965718190
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_127
+  - first:
+      213: 6609367330610393662
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_128
+  - first:
+      213: 3605416133698538717
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_129
+  - first:
+      213: -2197712775056468843
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_130
+  - first:
+      213: -4278934784743811714
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_131
+  - first:
+      213: 6783742985787463635
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_132
+  - first:
+      213: 7736609755867702190
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_133
+  - first:
+      213: -8060149337011199641
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_134
+  - first:
+      213: -2224725288874551047
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_135
+  - first:
+      213: -5422837453483003001
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_136
+  - first:
+      213: -1817403572644369511
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_137
+  - first:
+      213: -4767711460404659282
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_138
+  - first:
+      213: -7545558904626287964
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_139
+  - first:
+      213: 3180419099994082381
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_140
+  - first:
+      213: -2242349920116761945
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_141
+  - first:
+      213: 7539756556278201906
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_142
+  - first:
+      213: 3830302100487709662
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_143
+  - first:
+      213: -1683368866068485733
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_144
+  - first:
+      213: 5795877211165645291
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_145
+  - first:
+      213: -794706566757992339
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_146
+  - first:
+      213: -2495459445517558844
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_147
+  - first:
+      213: 1785177410133021992
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_148
+  - first:
+      213: -1582378619240401739
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_149
+  - first:
+      213: 1706573217328961115
+    second: Tileset A.R.B.A.L Separados - Sprite Sheet_150
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b618e99d496cd41aff6ad95ce48d54
+      internalID: -2488223915631804334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3294b3e5cb04a1644bcda310a4c72236
+      internalID: -2953024838947872159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af959ed2f02e5e14e90ab76ce67c185c
+      internalID: 1464076483155646540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064c23d0a534faa428a84baa3fe7a02a
+      internalID: -1808025735836905185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e41f85a6c0910346b4dd14900acd2f4
+      internalID: -2289706666848830377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ada0b98b46e374a84621a0bde70a55
+      internalID: -4899376017889282985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1cfbbe6acc6d440886479fbcbfce21
+      internalID: -8264138500673761781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bbdc2f885180f045bacadb5e26d7188
+      internalID: -3934173802593399685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ea79b2106c6f7449ed798f2c91d0af
+      internalID: -6320321929758039059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1121ecff8703cba4d832a54a17b367ab
+      internalID: -855797680172677391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e970aee0c776e149b62ebc3313a49da
+      internalID: -118840152942281740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3dba26b8b666b843b6e0a468ca6928d
+      internalID: 4238222992984143430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22fbd6c1e9222e94a85d363583b562f0
+      internalID: -6095046487735707741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19cc4b3c6f43d6f4e9d234639d685583
+      internalID: 3410570334887234635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e48870334c38e468dea88124f972ff
+      internalID: 5616716080701711811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1a7490ff6bf00449c83c81be37f2c1
+      internalID: 4184707208375425019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f40718850751e0459ea1ad2a2179223
+      internalID: 7366397521075819922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c1f1e36139d764882319546683370a
+      internalID: 2253664836249716630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64aa6df7cd59674cab900183c0dbc7f
+      internalID: 7213996447019768803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c3b34905f391c46b1685e90c98ba73
+      internalID: -274880793868347279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 896
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb564464ca05cf84abbd85380087a580
+      internalID: 8666881211476884688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f77eddb694c82b479580d46b933e758
+      internalID: -1772033966224084600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 896
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c04f56133ef2a46a96c12082043ebe
+      internalID: 7810875240169607809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e90b484058a4b546b938728662a3590
+      internalID: 5692823480440072774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 896
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af17dcfcaddc8284aad61aa40e0fb3ed
+      internalID: 4821333084834274330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 896
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea3d3f1303862f44a2903c7e249d5f9
+      internalID: -6500975094087557116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 896
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff26a45e703066e48ad9b455b5521f2c
+      internalID: -3624029869957124403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 896
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f126362eab422304aaebc7141f01419c
+      internalID: -8568853119453055936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 896
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc3d7d851732fd4489159f5e5fc2b25
+      internalID: 1363951208571467186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 880
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04bde7dbf042cc4418556bd19b93b755
+      internalID: 4751417839829587725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 880
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08bc29170b63c74e921572edfce8e52
+      internalID: -2207665414452383388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 880
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a9f48addb8f174d85dff4188125997
+      internalID: 5513382256102201912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 880
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3f3f6b6998ae64ca174be2165fc64a
+      internalID: 4004790423322269726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 880
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ce8d7a00f997b4d82b3edc92d6b54f
+      internalID: -6990664059225519105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 880
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61bd1d05ff7d0d34bafeca62f202b1d7
+      internalID: -1550510891441298914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 880
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0d7eafcb909db47abbc7a0044fee56
+      internalID: -6624513494807222096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 880
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb59eb9f5f1a9d4f9e374c7b74b79ed
+      internalID: -6292600717571382368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 880
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61cdcad071803e54fa602a55359539c1
+      internalID: -8909138664320502830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 880
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44fe00c48976f1e4c9322ed7b632f31d
+      internalID: 7533171306401949693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 640
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7776120a097aaf648a88321b8af8ecc7
+      internalID: -3864011225313621760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc5ba4d059c5a14bbd6d7f1a9a60c3c
+      internalID: 7754830990688352276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 640
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d367b2a4dcf88e34e8c7ad692bc02576
+      internalID: 1114918180129138388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f2da205e94f154a8a825856cbc5cad
+      internalID: 3497451243612832051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 640
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e75cc711af5f2e43ab91f75b67b1f5a
+      internalID: 7630373704084331624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8772ad47a6abe48976e623065a28b4
+      internalID: -6081303429841175003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 640
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73319b32e70fda40b4f0396e0968e91
+      internalID: -1072147006974590591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 640
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb60b1b99a169d4382e03a59aee74da
+      internalID: -3149366883168104227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 640
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c974fe776578ad243accfa56bbd4e687
+      internalID: 5400681574893039803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 640
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd2f54a15db07f428e119b60977cf47
+      internalID: 1328328106883450908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 624
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672427e67846db34884f6bbbefc8a559
+      internalID: 1101227879526961477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 624
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9908481a45d4dc41a8310de7518ba86
+      internalID: 4111645506385580017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 624
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca38536a8cc21eb4a827c82468d83124
+      internalID: 83683941062388531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 624
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d03258a89b0c704f89ee884ddfad8fd
+      internalID: 8107701278422249446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 624
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b740c1db31886047843b62dd69d8b35
+      internalID: -854283808039852348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 624
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa8d1f4fa126824587f3bd67fc0187c
+      internalID: -8359410425951728621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 624
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1332e1cfb6bd2d44b8bdc9ff2af5ad71
+      internalID: -3026244127012132698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 624
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb60274ed0271704dab04ba7e1ddd470
+      internalID: -4938987081168992658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 624
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f462ddc20cc8043489c3ccbe3f4417c8
+      internalID: -4597638212900908644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 624
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51e52dff703b38408ea6d1423983c54
+      internalID: -5896160923230297162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d601e7b9012662a46aa47431ed17c5b1
+      internalID: -8199224900461968176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b1e9d4c976d204fa0ad4c652626d21
+      internalID: 6399143744998296803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7ba09dbf03da843892f6b11e42dd08
+      internalID: 2180468193969412229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18001136c798e01438f0cbe4981cb3ff
+      internalID: 6990039994923756403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257f82ab7c185914395368f0f97ae873
+      internalID: 1650599802052587104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257b7a954d24f554b9d3d8fbf13fed71
+      internalID: -8917282590225588027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2775735e4697b0a46bf1fc465aa844da
+      internalID: -6800828858761964402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017813267acc3994a8c0d959265cd72a
+      internalID: 733546409921810295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653fd9913772a514f8b89a7a89f313a5
+      internalID: -8981765898800404662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f991992947e6266479e081a2e9a0c7a9
+      internalID: 7910324879540504727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec4a2d2a6eefa24588e917998169df3
+      internalID: 7989386581976179645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63438904cc3d2a742bda09223c3a2983
+      internalID: 4320765419024322727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7463e2abc1a4e458ab3722beaea0d3
+      internalID: -3206448152745038772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d665a31be4d6846aab2d126243333d
+      internalID: -8737842559592263032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848010e5045d8d54da90e68c734d436a
+      internalID: 2053060469421258766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d3da3c5ffabb14ba6d9a48a0ac4232
+      internalID: -22100552387288154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6658948cdec7944e923f59e59ed8bb4
+      internalID: 4445942480355462682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10de5eca460ff94abd729f76078c064
+      internalID: 3418816610104128721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05483c8883f0ce4d90d5af6aa7a5348
+      internalID: -7748485646223809808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2d27d119822c94299620f21bbefef3
+      internalID: 3233913358463545662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84634a7f794491e4797b24f5cede17f1
+      internalID: 8701665223018740027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d124c536b7ef6af4e87cd243eeb4c0dc
+      internalID: -6782007734441195690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03fab64859a7ed4da4b1daf443cc55d
+      internalID: 4442324795434237145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4481fe177c75ca4aaffcef0b9a63fa0
+      internalID: 814735727739746499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43cadf76a5c8d64cb40aac206766e2f
+      internalID: 7955598137552573876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ccd6e12729a3b44e86e2064200cf01b
+      internalID: -7906673367384614548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06fccd0721b5a94ab84315c9137ef82
+      internalID: -7017278610859568668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e3122b7b00ca74a95c7a006e0b38c5
+      internalID: 2246138392549383222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82206ea087a408647b6c19b18f44b6ed
+      internalID: 1115618154789359958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d648b0de288089c4c9fc27756ddca87b
+      internalID: -5678943705732956207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_89
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5dfe7ceb8ad6884faaa2a25108ae7f9
+      internalID: 1312735589662565872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_90
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51273deacff928740adf2d8db51b865e
+      internalID: -6925952432837286621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_91
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84bcf4070d1b6f64295c88e3d0b54a55
+      internalID: 1756827253517851633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_92
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b15657fd13125740860b95abfe9e097
+      internalID: -7342970973189063780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_93
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc85de65677ce24c8c00f653e249e7f
+      internalID: -2655673598430021598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_94
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f323734ec0a4e848a9069f78ce7ab00
+      internalID: -6652394732444936256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_95
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fad5b3f2efff345a81419cad669946
+      internalID: -8412407408582408164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_96
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd5ecd32355d444ea3910f3da398179
+      internalID: 2014829774333410284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_97
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde40c701fade0f42bf24dc36f099e51
+      internalID: 7292277229457089992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_98
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1385fa7225996ea4797420ea0c13c38e
+      internalID: 8198135032408407179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_99
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5224b9871a4715347875e413a6709287
+      internalID: 4753583322788675678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_100
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e758e5abee91c564e9fbed1d2299c154
+      internalID: 1351164157175459847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_101
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ebac177523e8f4ebb3422ddb12a0d2
+      internalID: 4046814641831124772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_102
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b640873ea2761104d8482cc6fe790a3a
+      internalID: 498936366733624784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_103
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c50b15e2f9ca842bdbec863409c27d
+      internalID: -5582463819151063128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_104
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d74cbe487ea6e4094b6ccde5ef76ae
+      internalID: -8914525304882272366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_105
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be89c90f253fa44ba089e21e800ff69
+      internalID: -6564448642457450519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_106
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df393761a3861a746a6469b874f1fda7
+      internalID: -6922893300739446762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_107
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4625c0831dd84449beb53db056c591
+      internalID: 3323740107275103380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_108
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b60989b86cebb4a92aa7effd88887d
+      internalID: 423333253022028419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_109
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7a43de574b6df41b0ce46aa7cb228c
+      internalID: 6571548754053241543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_110
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a592fb99fa4e241ba996c0b056a8c6
+      internalID: -4144849202863978937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_111
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599f1dc80f97e87489bbef1523fb1935
+      internalID: 883271827856238367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_112
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada9ab080915e834f87066a22a7b2b35
+      internalID: -7659982325058913940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_113
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6171ea509f6c3e44cb10d0f661df8d6e
+      internalID: 2176078362657042775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_114
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15eb69252e1b2734b9af2a8d3b7465a6
+      internalID: -4481454164737233819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_115
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46991db8f9240bf42987f42e14dbe05f
+      internalID: 85868951484279265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_116
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505da2714eb4b9745bb986caaa6774fe
+      internalID: -4931930593676648624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_117
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4bd3be7d3ede843acfb41eab398e01
+      internalID: -2875539968231478825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_118
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e976aaeedcb0a6347b26b9ec09b993a4
+      internalID: 4187377894225717874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_119
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21808c4a2ce01d741ba84aa3f5b42d67
+      internalID: -8902366104489683407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_120
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55b5dad96b150346a682299c146d1b3
+      internalID: -8812089815985662767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_121
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94b91246cfe5ac4ab91347b4bcbc35a
+      internalID: -7050912982415461725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_122
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841e6a30ca6b56747b6328ba9970b1f8
+      internalID: 5748989780590753504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_123
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bcd6db52c50b7c4382f1f45e8a9aa54
+      internalID: 4053559598437948122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_124
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435c1b229fda88c41b81510eb424d303
+      internalID: -6912900258959715636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_125
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d70f1f310cf784458fcb2cabde7324c
+      internalID: 5416737865915587560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_126
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ff678c6b8842c4f863818834e269d9
+      internalID: -1673073834338111624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_127
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c1bdbc79029e14ebc44d9d8ff4c63d
+      internalID: -5208898440965718190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_128
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299247a90f71095428811bc6ffb1a8e1
+      internalID: 6609367330610393662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_129
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd36af193ad1e947916bbcd067afbc5
+      internalID: 3605416133698538717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_130
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1860e72202b094b828c7eac894bbb9
+      internalID: -2197712775056468843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_131
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886f2c2ca3e5d89428c84cb3415d77d5
+      internalID: -4278934784743811714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_132
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44d88313dc6e5b4b8c995d0def9710d
+      internalID: 6783742985787463635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_133
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c95dbb7f96d4d41adb94369a428242
+      internalID: 7736609755867702190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_134
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2739e4d78fbb85e44a13c0b4fc84a64f
+      internalID: -8060149337011199641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_135
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e44a97811cf4004b98b8096207c7a40
+      internalID: -2224725288874551047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_136
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09576c773721114f897ec5526a58b57
+      internalID: -5422837453483003001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_137
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88878daf888ff6443898153a707be63d
+      internalID: -1817403572644369511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_138
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5906f26fd91e620488485b298f350e9e
+      internalID: -4767711460404659282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_139
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55930029ffdb1a408be929c99cbde57
+      internalID: -7545558904626287964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_140
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44dfe28b3d96e7f45a5656554b616b78
+      internalID: 3180419099994082381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_141
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4fd75a02cf83b47be90638c35346e2
+      internalID: -2242349920116761945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_142
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28239d9380b2d944a8ffb0f1cc0ebffd
+      internalID: 7539756556278201906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_143
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0773913d04971b44d9c27cdff1f3dece
+      internalID: 3830302100487709662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_144
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a15cfb80b52b74ea14ccb7ac39c82a
+      internalID: -1683368866068485733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_145
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f258b69bf0be4641a0cbb3c9013ca48
+      internalID: 5795877211165645291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_146
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70a1abf46f27c74dabd232bb308b540
+      internalID: -794706566757992339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_147
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e70bb7b95fd1c489db35552a0f870a
+      internalID: -2495459445517558844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_148
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1d1bafb800f8b49b2e6c091d1f69de
+      internalID: 1785177410133021992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_149
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337372a35b63d2c42b4455e759018cec
+      internalID: -1582378619240401739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L Separados - Sprite Sheet_150
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d60b99ce8b309a41b5780e55e2c3513
+      internalID: 1706573217328961115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 84fc1bcac7d957e4db00af9c091c1cbe
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

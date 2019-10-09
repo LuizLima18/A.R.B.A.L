@@ -1,0 +1,712 @@
+fileFormatVersion: 2
+guid: dc034819f154d6a4fa772152348cc9fa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7447703713817281700
+    second: Alba Expressions 2.0 - Sprite Sheet_0
+  - first:
+      213: 7547137640700508192
+    second: Alba Expressions 2.0 - Sprite Sheet_1
+  - first:
+      213: -3699694858828665839
+    second: Alba Expressions 2.0 - Sprite Sheet_2
+  - first:
+      213: -1815490988022789023
+    second: Alba Expressions 2.0 - Sprite Sheet_3
+  - first:
+      213: -1646481904499479918
+    second: Alba Expressions 2.0 - Sprite Sheet_4
+  - first:
+      213: 7586006962183605874
+    second: Alba Expressions 2.0 - Sprite Sheet_5
+  - first:
+      213: -1628663957534573530
+    second: Alba Expressions 2.0 - Sprite Sheet_6
+  - first:
+      213: 270608648660787942
+    second: Alba Expressions 2.0 - Sprite Sheet_7
+  - first:
+      213: 4865631474114318207
+    second: Alba Expressions 2.0 - Sprite Sheet_8
+  - first:
+      213: 7660410308820546750
+    second: Alba Expressions 2.0 - Sprite Sheet_9
+  - first:
+      213: 2997815101311184658
+    second: Alba Expressions 2.0 - Sprite Sheet_10
+  - first:
+      213: -4941886882612417785
+    second: Alba Expressions 2.0 - Sprite Sheet_11
+  - first:
+      213: -9024740715671696280
+    second: Alba Expressions 2.0 - Sprite Sheet_12
+  - first:
+      213: -4848751437720241359
+    second: Alba Expressions 2.0 - Sprite Sheet_13
+  - first:
+      213: -3807393809147825516
+    second: Alba Expressions 2.0 - Sprite Sheet_14
+  - first:
+      213: 6203862633501780712
+    second: Alba Expressions 2.0 - Sprite Sheet_15
+  - first:
+      213: 8495890864270857178
+    second: Alba Expressions 2.0 - Sprite Sheet_16
+  - first:
+      213: -817995164146156035
+    second: Alba Expressions 2.0 - Sprite Sheet_17
+  - first:
+      213: 2427166294412532222
+    second: Alba Expressions 2.0 - Sprite Sheet_18
+  - first:
+      213: -991275499568603412
+    second: Alba Expressions 2.0 - Sprite Sheet_19
+  - first:
+      213: 5173890965186706670
+    second: Alba Expressions 2.0 - Sprite Sheet_20
+  - first:
+      213: 6249738596281893605
+    second: Alba Expressions 2.0 - Sprite Sheet_21
+  - first:
+      213: -4205870873781708984
+    second: Alba Expressions 2.0 - Sprite Sheet_22
+  - first:
+      213: -7120145602382739256
+    second: Alba Expressions 2.0 - Sprite Sheet_23
+  - first:
+      213: 1809375777514099819
+    second: Alba Expressions 2.0 - Sprite Sheet_24
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Alba Expressions 2.0 - Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7680
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9dd23b1008f4b647afa580981264e4e
+      internalID: 7447703713817281700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba Expressions 2.0 - Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 7680
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae2e33b634dd8f4bb6ea2e17a1bb8e1
+      internalID: 7547137640700508192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba Expressions 2.0 - Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 7680
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d1969f3b1b54143b8e2e2182c22c36
+      internalID: -3699694858828665839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba Expressions 2.0 - Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 7680
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b623ae77f7e2c5489ecb6462d7d2a60
+      internalID: -1815490988022789023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba Expressions 2.0 - Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 7680
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5931dd1e6d38bc74c919eeb8a4bd1649
+      internalID: -1646481904499479918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba Expressions 2.0 - Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5760
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d14ec0967fe5c64caf5c58310570fc9
+      internalID: 7586006962183605874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba Expressions 2.0 - Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 5760
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5c0652802681b48a0ccd83c4e88a4c
+      internalID: -1628663957534573530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba Expressions 2.0 - Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 5760
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4938bdc279bc53345ad8d558b45d693d
+      internalID: 270608648660787942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba Expressions 2.0 - Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 5760
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05618546180c55043b3934f5518c04a8
+      internalID: 4865631474114318207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba Expressions 2.0 - Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 5760
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db250f3935d8aa5499cd160045b06539
+      internalID: 7660410308820546750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba Expressions 2.0 - Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3840
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00654434590ed94cbe57248d52f6aba
+      internalID: 2997815101311184658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba Expressions 2.0 - Sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 3840
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6ab080fc82747429525a77beaab645
+      internalID: -4941886882612417785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba Expressions 2.0 - Sprite Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 3840
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1fb58b8f8c4029418589ff13bfe066f
+      internalID: -9024740715671696280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba Expressions 2.0 - Sprite Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 3840
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4665d49788d17d547a3ceb62b9e97e44
+      internalID: -4848751437720241359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba Expressions 2.0 - Sprite Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 3840
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24e65569442bf3458c770e348841b87
+      internalID: -3807393809147825516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba Expressions 2.0 - Sprite Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056d1594cf71b0348a099565564c3aeb
+      internalID: 6203862633501780712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba Expressions 2.0 - Sprite Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1920
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a12471fe5fd2d4884ea69657c6f434
+      internalID: 8495890864270857178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba Expressions 2.0 - Sprite Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1920
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e97416e2bb1b34297fbb1e0e46b88d
+      internalID: -817995164146156035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba Expressions 2.0 - Sprite Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 1920
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb59ebb89b5c9740874835300f1c44f
+      internalID: 2427166294412532222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba Expressions 2.0 - Sprite Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 1920
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb7cb70e489f3448aaa315a03a53b87
+      internalID: -991275499568603412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba Expressions 2.0 - Sprite Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffbb9146726a714788cbff8690ed4ac
+      internalID: 5173890965186706670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba Expressions 2.0 - Sprite Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52efbdef66ab9347a19b0ead20092fc
+      internalID: 6249738596281893605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba Expressions 2.0 - Sprite Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 0
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6040cbf84807f42853d54685a3b418
+      internalID: -4205870873781708984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba Expressions 2.0 - Sprite Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 0
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00869d39b8a4d004a8b2ede46148efca
+      internalID: -7120145602382739256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba Expressions 2.0 - Sprite Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 0
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0289ef8c0335348be407d292d50b72
+      internalID: 1809375777514099819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 201d8d6affec3b9498669157b398606b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

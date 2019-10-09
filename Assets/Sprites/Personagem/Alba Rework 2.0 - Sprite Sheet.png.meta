@@ -1,0 +1,904 @@
+fileFormatVersion: 2
+guid: b6ec03bf30f53f24aab2bd9db01e01d1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6032393926494399355
+    second: Alba Rework 2.0 - Sprite Sheet_0
+  - first:
+      213: 7263493230006535770
+    second: Alba Rework 2.0 - Sprite Sheet_1
+  - first:
+      213: 2115454258235268365
+    second: Alba Rework 2.0 - Sprite Sheet_2
+  - first:
+      213: -7019412338115105082
+    second: Alba Rework 2.0 - Sprite Sheet_3
+  - first:
+      213: -3009437641899620969
+    second: Alba Rework 2.0 - Sprite Sheet_4
+  - first:
+      213: 1771120264302679226
+    second: Alba Rework 2.0 - Sprite Sheet_5
+  - first:
+      213: 1754568015276750328
+    second: Alba Rework 2.0 - Sprite Sheet_6
+  - first:
+      213: -5803389572793268201
+    second: Alba Rework 2.0 - Sprite Sheet_7
+  - first:
+      213: 2234360504216778418
+    second: Alba Rework 2.0 - Sprite Sheet_8
+  - first:
+      213: -4867745174247990520
+    second: Alba Rework 2.0 - Sprite Sheet_9
+  - first:
+      213: 8766624692364594932
+    second: Alba Rework 2.0 - Sprite Sheet_10
+  - first:
+      213: -2785438927469406266
+    second: Alba Rework 2.0 - Sprite Sheet_11
+  - first:
+      213: 3464836086474162505
+    second: Alba Rework 2.0 - Sprite Sheet_12
+  - first:
+      213: -7149241171791589668
+    second: Alba Rework 2.0 - Sprite Sheet_13
+  - first:
+      213: -4466808157592283639
+    second: Alba Rework 2.0 - Sprite Sheet_14
+  - first:
+      213: 3632133861722981811
+    second: Alba Rework 2.0 - Sprite Sheet_15
+  - first:
+      213: -7538534349315147654
+    second: Alba Rework 2.0 - Sprite Sheet_16
+  - first:
+      213: -7325101505341297560
+    second: Alba Rework 2.0 - Sprite Sheet_17
+  - first:
+      213: 8993507524478145869
+    second: Alba Rework 2.0 - Sprite Sheet_18
+  - first:
+      213: -5691805837135201564
+    second: Alba Rework 2.0 - Sprite Sheet_19
+  - first:
+      213: -8652945126728647074
+    second: Alba Rework 2.0 - Sprite Sheet_20
+  - first:
+      213: 1778682513111685151
+    second: Alba Rework 2.0 - Sprite Sheet_21
+  - first:
+      213: 7689079441104761782
+    second: Alba Rework 2.0 - Sprite Sheet_22
+  - first:
+      213: -8777959585688770301
+    second: Alba Rework 2.0 - Sprite Sheet_23
+  - first:
+      213: -4885109530625130513
+    second: Alba Rework 2.0 - Sprite Sheet_24
+  - first:
+      213: 160326718889938285
+    second: Alba Rework 2.0 - Sprite Sheet_25
+  - first:
+      213: 3324902835336187716
+    second: Alba Rework 2.0 - Sprite Sheet_26
+  - first:
+      213: 6000578510943063335
+    second: Alba Rework 2.0 - Sprite Sheet_27
+  - first:
+      213: -2906815802306672403
+    second: Alba Rework 2.0 - Sprite Sheet_28
+  - first:
+      213: -313571176943597483
+    second: Alba Rework 2.0 - Sprite Sheet_29
+  - first:
+      213: -1800909118771254664
+    second: Alba Rework 2.0 - Sprite Sheet_30
+  - first:
+      213: -6602205537599427400
+    second: Alba Rework 2.0 - Sprite Sheet_31
+  - first:
+      213: -1383004247418233190
+    second: Alba Rework 2.0 - Sprite Sheet_32
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Alba Rework 2.0 - Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9600
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7f70e8b8992314bace62edae4c1617
+      internalID: -6032393926494399355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba Rework 2.0 - Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 9600
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5229d2d1af4681246923d1deb4b4f190
+      internalID: 7263493230006535770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba Rework 2.0 - Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 9600
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e823b3ee6460cda4ab9e397c219c0b68
+      internalID: 2115454258235268365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba Rework 2.0 - Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 9600
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b6f94e82cefea469ca7144126cc2bd
+      internalID: -7019412338115105082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba Rework 2.0 - Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 9600
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88db019e672066c42951b1e2cdc26b52
+      internalID: -3009437641899620969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba Rework 2.0 - Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 9600
+        y: 9600
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012d5c334455e8b49b514e03a115336f
+      internalID: 1771120264302679226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba Rework 2.0 - Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7680
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a005e584a7c7ed046ba097c69a176f7c
+      internalID: 1754568015276750328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba Rework 2.0 - Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 7680
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c3757fe3b9e38459059eb21480edbf
+      internalID: -5803389572793268201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba Rework 2.0 - Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 7680
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c65d363978df94eb5036f7ae8a6290
+      internalID: 2234360504216778418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba Rework 2.0 - Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 7680
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259b6162b946b8a49ba7d17e8c7898f3
+      internalID: -4867745174247990520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba Rework 2.0 - Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 7680
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeda8b9899fe2b84e8e6ac6b35ae8c8f
+      internalID: 8766624692364594932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba Rework 2.0 - Sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 9600
+        y: 7680
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1336810627ac14687704b844eaf737
+      internalID: -2785438927469406266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba Rework 2.0 - Sprite Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5760
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784bc1ea9bca5df48a007153d3627f68
+      internalID: 3464836086474162505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba Rework 2.0 - Sprite Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 5760
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b162098315adda944bd927d818a57053
+      internalID: -7149241171791589668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba Rework 2.0 - Sprite Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 5760
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6ebf7716ddab3448c7ffe038037d57
+      internalID: -4466808157592283639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba Rework 2.0 - Sprite Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 5760
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10200b641604b34185acb10fd566a8c
+      internalID: 3632133861722981811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba Rework 2.0 - Sprite Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 5760
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0dede4419fc4f54fae85f0e942d9f2b
+      internalID: -7538534349315147654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba Rework 2.0 - Sprite Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 9600
+        y: 5760
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f5825d9d796564fa2c7fd66e0368ff
+      internalID: -7325101505341297560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba Rework 2.0 - Sprite Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3840
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebec3f94fa2f4fb4eaa77efafc0a3235
+      internalID: 8993507524478145869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba Rework 2.0 - Sprite Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 3840
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa88357fb338dd540bd1a1eb7d5aeff5
+      internalID: -5691805837135201564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba Rework 2.0 - Sprite Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 3840
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d224f59894dfc624a9cd6c4ee741f90d
+      internalID: -8652945126728647074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba Rework 2.0 - Sprite Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 3840
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6546296e873724987803bf973bddc3
+      internalID: 1778682513111685151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba Rework 2.0 - Sprite Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 3840
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f42acc976167440851e5d27e381bfd
+      internalID: 7689079441104761782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba Rework 2.0 - Sprite Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 9600
+        y: 3840
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da9ff3fb9f75af449061aa0c3c2d58a
+      internalID: -8777959585688770301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba Rework 2.0 - Sprite Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df75ed0631830114a905c6b675dd7553
+      internalID: -4885109530625130513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba Rework 2.0 - Sprite Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1920
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757b3da81468ac94d9fc5ba77ef87fd8
+      internalID: 160326718889938285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba Rework 2.0 - Sprite Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1920
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe48fa2d4c428e439ee88634141dbce
+      internalID: 3324902835336187716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba Rework 2.0 - Sprite Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 1920
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03566b57b974910478143ca037b68fe7
+      internalID: 6000578510943063335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba Rework 2.0 - Sprite Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 1920
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce277a867c9f63747a06545749f8726c
+      internalID: -2906815802306672403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba Rework 2.0 - Sprite Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 9600
+        y: 1920
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71cce9f444c4a247ad8b7499fcf5d24
+      internalID: -313571176943597483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba Rework 2.0 - Sprite Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de07dfc3cfff4074985c557291122fa8
+      internalID: -1800909118771254664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba Rework 2.0 - Sprite Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d942885e2fd92b4d9cd0472c068f36c
+      internalID: -6602205537599427400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alba Rework 2.0 - Sprite Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 0
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8b6de683ff4a948a971fb2d486e7d1
+      internalID: -1383004247418233190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 95566483f02a68a4cb1ff0169c58a6bd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

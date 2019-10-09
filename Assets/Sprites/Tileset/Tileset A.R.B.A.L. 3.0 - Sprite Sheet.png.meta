@@ -1,0 +1,640 @@
+fileFormatVersion: 2
+guid: 0a4d03e24ba31f74d9813a18ed7ddc44
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4687812931636239956
+    second: Tileset A.R.B.A.L. 3.0 - Sprite Sheet_0
+  - first:
+      213: 2192621194169758064
+    second: Tileset A.R.B.A.L. 3.0 - Sprite Sheet_1
+  - first:
+      213: 5579447018109401786
+    second: Tileset A.R.B.A.L. 3.0 - Sprite Sheet_2
+  - first:
+      213: -6584235915394769742
+    second: Tileset A.R.B.A.L. 3.0 - Sprite Sheet_3
+  - first:
+      213: 6979069329334523046
+    second: Tileset A.R.B.A.L. 3.0 - Sprite Sheet_4
+  - first:
+      213: -2694339587527261455
+    second: Tileset A.R.B.A.L. 3.0 - Sprite Sheet_5
+  - first:
+      213: 8662554130967375252
+    second: Tileset A.R.B.A.L. 3.0 - Sprite Sheet_6
+  - first:
+      213: -2996310350068503298
+    second: Tileset A.R.B.A.L. 3.0 - Sprite Sheet_7
+  - first:
+      213: 264214247427703044
+    second: Tileset A.R.B.A.L. 3.0 - Sprite Sheet_8
+  - first:
+      213: -3150576757777520188
+    second: Tileset A.R.B.A.L. 3.0 - Sprite Sheet_9
+  - first:
+      213: 3967109624345106412
+    second: Tileset A.R.B.A.L. 3.0 - Sprite Sheet_10
+  - first:
+      213: -8249652023951517563
+    second: Tileset A.R.B.A.L. 3.0 - Sprite Sheet_11
+  - first:
+      213: -7218435045938952426
+    second: Tileset A.R.B.A.L. 3.0 - Sprite Sheet_12
+  - first:
+      213: 8285885378323020747
+    second: Tileset A.R.B.A.L. 3.0 - Sprite Sheet_13
+  - first:
+      213: 4148799860986760067
+    second: Tileset A.R.B.A.L. 3.0 - Sprite Sheet_14
+  - first:
+      213: 4990187080163766656
+    second: Tileset A.R.B.A.L. 3.0 - Sprite Sheet_15
+  - first:
+      213: -3222615942684214304
+    second: Tileset A.R.B.A.L. 3.0 - Sprite Sheet_16
+  - first:
+      213: -4110614539569444547
+    second: Tileset A.R.B.A.L. 3.0 - Sprite Sheet_17
+  - first:
+      213: -5823744254997300029
+    second: Tileset A.R.B.A.L. 3.0 - Sprite Sheet_18
+  - first:
+      213: 7330054308790965736
+    second: Tileset A.R.B.A.L. 3.0 - Sprite Sheet_19
+  - first:
+      213: -4753424857472205473
+    second: Tileset A.R.B.A.L. 3.0 - Sprite Sheet_20
+  - first:
+      213: 7903878880293148134
+    second: Tileset A.R.B.A.L. 3.0 - Sprite Sheet_21
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 22
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L. 3.0 - Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 483
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5125bed8dadfc44b7bfa0fae0b5bf3
+      internalID: 4687812931636239956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L. 3.0 - Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 483
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2b6f3bfc3c2194595147e332b29492
+      internalID: 2192621194169758064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L. 3.0 - Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 482
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b13bd5034b4474693d36d670bfe730
+      internalID: 5579447018109401786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L. 3.0 - Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 490
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85ce35e240c3f646be6a9b6f5cee281
+      internalID: -6584235915394769742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L. 3.0 - Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 490
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfc5e09996621c4cb3e705df4636f47
+      internalID: 6979069329334523046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L. 3.0 - Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 490
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78aba717da32c2842872355f1ee8dd49
+      internalID: -2694339587527261455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L. 3.0 - Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 475
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae7951a23f87f147a908f069e46f575
+      internalID: 8662554130967375252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L. 3.0 - Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 475
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72497cdc2edfb9408be343d91065aac
+      internalID: -2996310350068503298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L. 3.0 - Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 475
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6036c23dd36625418f1e05dab36dae4
+      internalID: 264214247427703044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L. 3.0 - Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 453
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a06f2f6bcb990b468ff7cad73ebd9cb
+      internalID: -3150576757777520188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L. 3.0 - Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 453
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbcdbeca3c227e64dbacadd9a8be1615
+      internalID: 3967109624345106412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L. 3.0 - Sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 453
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bed05ab2ca5ab845a3940e01a43f912
+      internalID: -8249652023951517563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L. 3.0 - Sprite Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 457
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66750a09d027fc14cb0064ec7aedcd06
+      internalID: -7218435045938952426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L. 3.0 - Sprite Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 456
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683f2603bd7b6ed4ea27226af756acd4
+      internalID: 8285885378323020747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L. 3.0 - Sprite Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 434
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8f23e96d4c41740adb2f15afba2ca1
+      internalID: 4148799860986760067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L. 3.0 - Sprite Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 434
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80614c5163b4fd42a798434b985128a
+      internalID: 4990187080163766656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L. 3.0 - Sprite Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 434
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d19553467f22a540a63af33e1f393bd
+      internalID: -3222615942684214304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L. 3.0 - Sprite Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 413
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38928cf99c6b0dc47966020d4a2cf4fa
+      internalID: -4110614539569444547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L. 3.0 - Sprite Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 413
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3d195fdd2f40c4987cf5da4cc7bb9d
+      internalID: -5823744254997300029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L. 3.0 - Sprite Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 413
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a80f79dccc5284e864137144f58e25
+      internalID: 7330054308790965736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L. 3.0 - Sprite Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 130
+        width: 107
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe02ecff091af804d886c558abf756e2
+      internalID: -4753424857472205473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset A.R.B.A.L. 3.0 - Sprite Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 129
+        width: 79
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef63e473e581974caf356db14083876
+      internalID: 7903878880293148134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ceceee789fb5d5e47b295940018913a4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
